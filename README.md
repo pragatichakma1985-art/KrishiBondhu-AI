@@ -180,3 +180,4 @@ Farmer history, saved accounts and settings stay in the **phone's own browser st
 ## Disclaimer
 
 Advice is AI-generated and is **not a confirmed diagnosis**. Always consult a local agricultural extension officer before using any pesticide. Marketplace prices marked "Sample" are examples only.
+ 
